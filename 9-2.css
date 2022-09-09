@@ -68,3 +68,28 @@ footer{
   background-color:#aaaaaa;
 }
 
+@media screen and (max-width:768px){
+  
+  header{
+    width:100%;
+  }
+  
+  main{
+    width:100%;
+    margin:50px 5%;
+  }
+  
+  .box1,.box2,.box3{
+    width:90%;
+  }
+  
+  .box2{
+    margin:20px 0;
+  }
+
+  .contents{
+    display:block;
+  }
+  
+  
+}
